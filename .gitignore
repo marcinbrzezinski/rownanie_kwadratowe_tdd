@@ -1,0 +1,8 @@
+# ignoruj pliki wykonywalne
+
+.idea
+cmake-build-debug/
+*.o
+*.out
+*.c~
+
